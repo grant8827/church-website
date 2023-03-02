@@ -1,5 +1,84 @@
+body{
+  background-color: rgb(238, 238, 238);
+}
 .head-text{
  text-align: center;
 margin-top: 180px;
   font-size: 50px;
+}
+.nav-item:hover{
+background-color: rgb(0, 51, 161);
+border-top: solid 5px rgb(3, 3, 110);
+}
+a:hover{
+color: #fff;
+}
+.navbar{
+  z-index: 11;
+}
+.card-area{
+  margin-top: 50px;
+}
+.nav-bar{
+margin-right: 100px;
+}
+.service-offered{
+  margin-top: 300px;
+}
+.services{
+  overflow: hidden;
+  width: 100%;  
+}
+.services-2{
+  overflow: hidden;
+  width: 100%;  
+}
+
+.service-offered-head{
+  transition: transform 0.2s ease;
+ 
+  padding: 20px;
+  width: fit-content;align-items: center;
+
+ 
+
+}
+.service-offered-head:hover{
+
+    -ms-transform: scale(1.5); /* IE 9 */
+    -webkit-transform: scale(1.9); /* Safari 3-8 */
+    transform: scale(1.2); 
+}
+
+.services-offered hr, .church-leaders hr, 
+.cards-area hr, .live-screen hr{
+  border:2px solid rgb(40, 102, 236);
+  width: 120px;
+}
+
+.fa-facebook-f, .fa-twitter{
+padding: 10px;
+border: 1px solid #000;
+
+  border-radius: 50%;
+  width: 38px;
+  color: rgb(40, 102, 236);
+  margin-left: 10px;
+}
+.fa-instagram, .fa-youtube{
+padding: 10px;
+border: 1px solid #000;
+
+  border-radius: 50%;
+  width: 38px;
+  color: rgb(185, 0, 46);
+  margin-left: 10px;
+}
+.foot-link li{
+  list-style: none;
+ justify-content: center;
+}
+.foot-link a{
+  text-decoration-style: dotted;
+ color: #000;
 }
