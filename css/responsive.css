@@ -1,0 +1,112 @@
+@media only screen and (max-width: 912px){
+  .bg-image{
+    margin-top: 50px;
+  }
+  .heatText{
+    margin-top: 80PX;
+  }
+  .bonner h2{
+font-size: 22px;
+margin-top: -95px;
+  }
+  .line.nav-item{
+    display: none;
+  }
+    }
+
+
+@media only screen and (max-width: 766px){
+    .bg-image{
+      
+        margin-bottom: -180px;
+          }
+  
+  .heatText{
+    margin-top: -20PX;
+  }
+  .heatText h1{
+    font-size: 25px;
+  }
+  .bonner{
+padding: 200px;
+      }
+  .bonner h2{
+    font-size: 18px;
+    margin-top: -100px;
+      }
+  .bonner button{
+    font-size: 15px;
+      }
+      .contact-area{
+        margin-top: 250px;
+      }
+    }
+
+
+@media only screen and (max-width: 540px){
+    .bg-image{
+    margin-top: 70px;
+    margin-bottom: -200px;
+      }
+  
+  .heatText{
+    margin-top: -60PX;
+  }
+  .heatText h1{
+    font-size: 18px;
+  }
+  .heatText h6{
+    font-size: 15px;
+  }
+  .heatText a{
+   padding: 3px;
+   margin-top: -10px;
+   font-size: 12px;
+  }
+  .bonner h2{
+    font-size: 12px;
+    width: 100%;
+    margin-top: -100px;
+      }
+  .bonner a button{
+    font-size: 12px;
+    padding: 2px;
+    margin-top: -280px;
+      }
+    }
+
+
+@media only screen and (max-width: 399px){
+    .bg-image{
+      margin-top: 110px;
+      padding: 50px;
+      height: auto;
+      }
+  
+  .heatText{
+    margin-top: -50PX;
+  }
+  .heatText h1{
+    font-size: 15px;
+  }
+  .heatText h6{
+    font-size: 10px;
+    margin-top: -10px;
+  }
+  .heatText a{
+  padding: 5px;
+    margin-top: -10px;
+    font-size: 12px;
+  }
+  .bonner h2{
+    font-size: 12px;
+    width: 100%;
+    margin-top: -100px;
+      }
+  .bonner button{
+    font-size: 12px;
+    padding: 5px;
+    margin-top: -200px;
+      }
+    }
+  
